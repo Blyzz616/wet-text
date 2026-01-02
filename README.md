@@ -5,6 +5,8 @@ not sure where to use it yet - I might add it to the temperature (on my dashboar
 close to the dew point?
 not sure yet
 
-https://github.com/user-attachments/assets/da2d305b-5766-403d-9da6-2c36b7a5c8ea
+
+
+https://github.com/user-attachments/assets/69a47dc6-15f1-419a-ab7e-c4c0aae4158e
 
 [Dashboard here](https://www.github.com/blyzz616/dashboard)
